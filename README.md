@@ -1,4 +1,4 @@
-# Codealpha_tasks
+# Codealpha_tasks - task 1: flashcard 
 • This is a basic Android app in Kotlin <br>
 • Has a activity which shows how a counter works
 <br>
